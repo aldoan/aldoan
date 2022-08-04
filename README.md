@@ -8,7 +8,7 @@ Web/Mobile Developer & UX Designer
 * ✉️  You can contact me at [aldoan87@gmail.com](mailto:aldoan87@gmail.com)
 * 🚀  I'm currently working on [Daniel Apps](http://danielapps.co)
 * 🧠  I'm learning React Native
-* ⚡  I'm passionated about Design
+* ⚡  I'm passionate about Design
 
 <a href="https://www.twitter.com/alfdominguez" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/alfdominguez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
