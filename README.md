@@ -6,7 +6,7 @@ Web/Mobile Developer & UX Designer
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [aldoan87@gmail.com](mailto:aldoan87@gmail.com)
-* 🚀  I'm currently working on [Daniel Apps](http://danielapps.co)
+* 🚀  I'm currently working on [Amaris Consulting](http://amaris.com)
 * 🧠  I'm learning React Native
 * ⚡  I'm passionate about Design
 
